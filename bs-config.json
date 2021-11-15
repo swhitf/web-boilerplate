@@ -1,0 +1,11 @@
+{
+    "ghostMode": false,
+    "open": true,
+    "port": 8000,
+    "files": [
+        "./build/**/*.*"
+    ],
+    "server": {
+        "baseDir": "./build"
+    }
+}
